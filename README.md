@@ -1,4 +1,4 @@
-.# How to
+# How to
 
 This project is our solution to AI Hackathon, SkyHackAI 2019. 
 
